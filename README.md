@@ -115,13 +115,14 @@ Atualmente estou desenvolvendo projetos voltados à gestão e análise de dados 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SeuUsuarioAqui&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=lucasxsdw&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-  <img 
-    align="left" 
-    alt="Linguagens Mais Usadas" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuarioAqui&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasxsdw&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
 </p>
