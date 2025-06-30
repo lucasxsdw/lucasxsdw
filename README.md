@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web`**
 
-Olá! Me chamo Lucas Ryan. Sou apaixonado por tecnologia e desenvolvimento de sistemas. Tenho experiência com desenvolvimento web, principalmente utilizando **Python, Django, PHP e Laravel**, além de conhecimentos em banco de dados e integração entre sistemas.
+Olá! Me chamo Lucas Ryan. Sou apaixonado por tecnologia e desenvolvimento de sistemas. Tenho experiência com desenvolvimento web, principalmente utilizando **Python, Django, JavaScript e Bootstrapp**, além de conhecimentos em banco de dados e integração entre sistemas.
 
 Atualmente estou desenvolvendo projetos voltados à gestão e análise de dados em ambientes institucionais, sempre buscando soluções eficientes e seguras.
 
@@ -59,6 +59,15 @@ Atualmente estou desenvolvendo projetos voltados à gestão e análise de dados 
     width="30px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Bootstrap" 
+    title="Bootstrap"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
 />
 
 <img 
