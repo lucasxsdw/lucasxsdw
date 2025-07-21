@@ -7,7 +7,7 @@ Olá! Me chamo Lucas Ryan. Sou apaixonado por tecnologia e desenvolvimento de si
 Atualmente estou desenvolvendo projetos voltados à gestão e análise de dados em ambientes institucionais, sempre buscando soluções eficientes e seguras.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/seu-link-linkedin-aqui">
+    <a href="[https://www.linkedin.com/in/seu-link-linkedin-aqui](https://www.linkedin.com/in/lucasdev-tec/)">
         <img 
             alt="LinkedIn"
             title="Me adicione no LinkedIn"
