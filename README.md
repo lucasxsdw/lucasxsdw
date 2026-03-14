@@ -93,11 +93,11 @@ print(eu)
 [✅] HTML, CSS, JavaScript, Bootstrap
 [✅] MySQL & integração entre sistemas
 [✅] Git & controle de versão
-[🔄] APIs REST com Django REST Framework
-[🔄] React.js — em progresso
-[📌] Docker & containerização
-[📌] Cloud (AWS / GCP)
-[📌] Autenticação JWT & OAuth
+[✅] APIs REST com Django REST Framework
+[✅] React.js — em progresso
+[✅] Docker & containerização
+[✅] Cloud (AWS / GCP)
+[✅] Autenticação JWT & OAuth
 ```
 
 ---
