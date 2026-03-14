@@ -21,7 +21,7 @@
 
 ---
 
-## `> whoami`
+## `> Sobre Mim`
 
 ```python
 class LucasRyan:
